@@ -1,6 +1,8 @@
 {
   "name": "my-project",
   "version": "0.1.0",
+  "description": "电商项目",
+  "author": "YJ",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -30,5 +32,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://yangjin24.github.io/my-project"
 }
