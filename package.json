@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "version": "0.1.0",
-  "description": "电商项目",
+  "description": "react项目",
   "author": "YJ",
   "private": true,
   "dependencies": {
